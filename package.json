@@ -1,0 +1,8 @@
+{
+  "name": "bmi-calculator-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm --prefix ./bmi-calculator start"
+  }
+}
